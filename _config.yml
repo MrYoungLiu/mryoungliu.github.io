@@ -15,16 +15,16 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CHS"
-title                    : "Young的簡歷"
+locale                   : "en-US"
+title                    : "刘洋宏的简历"
 title_separator          : "-"
-subtitle                 : "UCB & UCLA"# site tagline that appears below site title in masthead
-name                     : "MrYoungLiu"
-description              : "Young的個人簡歷"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "冲击UCB和UCLA！！！"# site tagline that appears below site title in masthead
+name                     : "Yanghong Liu"
+description              : "刘洋宏的个人履历"
+url                      : "https://mryoungliu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "MrYoungLiu/mryoungliu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "劉洋宏"
+  name             : "刘洋宏"
   avatar           : "/assets/images/sunnyboy.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "我是一個**熱愛學習**的男孩."
-  location         : "10435 San Fernando Ave, Cupertino, CA"
+  bio              : "2022年秋季入学De Anza学生"
+  location         : "10435 San Fernando Ave, Cupertino"
   email            : "youngliu1219@gmail.com"
   links:
     - label: "Email"
