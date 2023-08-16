@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CHS"
 title                    : "Young的簡歷"
 title_separator          : "-"
 subtitle                 : "UCB & UCLA"# site tagline that appears below site title in masthead
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanghong Liu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "劉洋宏"
+  avatar           : "/assets/images/sunnyboy.jpg“ # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "我是一個**熱愛學習**的男孩."
+  location         : "10435 San Fernando Ave"
+  email            : "youngliu1219@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
