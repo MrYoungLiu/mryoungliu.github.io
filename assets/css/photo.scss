@@ -1,0 +1,12 @@
+---
+---
+
+img.u-photo {
+    width: 120px;        /* 定义一个固定的宽度 */
+    height: 110px;       /* 定义一个固定的高度 */
+    border-radius: 30%;  /* 使图片显示为圆形 */
+    object-fit: cover;   /* 确保图片内容以适当的方式填充容器 */
+}
+
+
+
