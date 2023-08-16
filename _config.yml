@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "劉洋宏"
-  avatar           : "/assets/images/sunnyboy.jpg“ # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sunnyboy.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "我是一個熱愛學習的男孩."
   location         : "10435 San Fernando Ave, Cupertino, CA"
   email            : "youngliu1219@gmail.com"
