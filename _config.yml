@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "刘洋宏的简历"
 title_separator          : "-"
-subtitle                 : "冲击UCB和UCLA！！！"# site tagline that appears below site title in masthead
+subtitle                 : "目标UCB和UCLA！！！"# site tagline that appears below site title in masthead
 name                     : "Yanghong Liu"
 description              : "刘洋宏的个人履历"
 url                      : "https://mryoungliu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/stzab_l?igshid=OGQ5ZDc2ODk2ZA=="
 
 # Site Footer
 footer:
