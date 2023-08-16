@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "刘洋宏"
-  avatar           : "/assets/images/sunnyboy.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2022年秋季入学De Anza学生"
-  location         : "10435 San Fernando Ave, Cupertino"
+  avatar           : "/assets/images/sunnyboy.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "2022年秋季入学De Anza"
+  location         : "Cupertino, CA"
   email            : "youngliu1219@gmail.com"
   links:
     - label: "Email"
