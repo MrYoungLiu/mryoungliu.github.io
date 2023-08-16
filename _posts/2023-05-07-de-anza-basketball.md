@@ -1,7 +1,7 @@
 ---
 title: "Bay Area Chinese University Basketball League"
 ---
-#旧金山湾区高校中国留学生篮球联赛荣获季军
+## 旧金山湾区高校中国留学生篮球联赛荣获季军
 * 与斯坦福大学球队比赛
 ![Da_vs_Stanford](/assets/images/da_stanford.jpg)
 * 与UCSC球队比赛
