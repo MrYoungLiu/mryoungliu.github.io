@@ -13,6 +13,22 @@
     {% include head.html %}
     {% include head/custom.html %}
   </head>
+  <body>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-81Y30FFGJC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-81Y30FFGJC');
+    </script>
+
+    <!-- Rest of your website's content goes here -->
+
+  </body>
+</html>
+
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}

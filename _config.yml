@@ -293,3 +293,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+google_analytics: G-81Y30FFGJC
