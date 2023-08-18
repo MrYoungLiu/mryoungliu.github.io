@@ -37,6 +37,8 @@ cmd中输入 gem install jekyll 命令，进行安装。
 ## GitHub Desktop
 * 官网下载GitHub Desktop: https://desktop.github.com/
 * 登录账号并与浏览器GitHub账户绑定
+* 将自己的博客与GitHub Desktop相关联
+![Github Desktop Clone](/assets/images/github_desktop_clone.png)
 * 
 
 
