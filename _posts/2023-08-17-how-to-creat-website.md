@@ -42,6 +42,12 @@ cmd中输入 gem install jekyll 命令，进行安装。
 * 以后每当文档有更改都可以在此处推送到网页
 ![Github Desktop Push](/assets/images/github_desktop_push.png)
 
-##
-
+## Pycharm
+* 官网下载Pycharm Community Edition: https://www.jetbrains.com/pycharm/
+![Pycharm](/assets/images/pycharm.png)
+* 在pycharm中打开自己博客
+* _posts中创建20xx-xx-xx-name.md Markdown文件来上传文章
+* assets中创建photo.scss 来调整图像形状
+![Pycharm Photo](/assets/images/pycharm_photo.png)
+* 在_config.yml中改写网页上个人信息
 
