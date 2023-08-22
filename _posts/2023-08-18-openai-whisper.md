@@ -1,6 +1,14 @@
 ---
-title: "Machine Learning Model Building Process"
+title: "OpenAI Whisper: Deploying Voice-to-Text Inference for Key Information Extraction"
 ---
+## 介绍
+OpenAI Whisper Speech Refiner是一款致力于促进办公效率的产品。
+在当前数据网络发展迅速的时代，互联网和云处理以与我们的工作息息相关。
+在会议时采用手写方式记录笔记，可能会遗漏重点或者笔记冗杂不够直观。
+而这款产品能有效地解决手写笔记所存在的问题，同时提高用户的办公效率。
+本产品可通过语音转换为文本，并将所生成文本内容进行错别字纠正和语法纠正，
+最后通过AI算法将文本重要内容提取并总结。合理地运用数据科学以及前沿科技，
+给予用户良好的办公体验是我们的终旨。如您想更仔细了解本产品及使用方式请阅读下文。
 ## 一：确定AI的类型和目标
 * AI类型：语音处理
 * AI目标：
@@ -14,7 +22,7 @@ title: "Machine Learning Model Building Process"
     * 数据集（集合）
     * 测试集（评估模型性能）
 
-## 三：设计和构建AI模型
+## 三：引用OpenAI预训练模型
 * AI模型：OpenAI/Whisper - GitHub - Python
 
 ## 四：训练AI模型
